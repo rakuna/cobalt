@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The Cobalt Foundation's mission is to provide support to groups that have clearly defined achievable objectives that are non-sectarian based and where we can see measurable direct benefit from our donation.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Why : To catalyse improvements to our society.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Who : non sectarian organisations or individuals with clear measurable objectives.
 
-
-[jekyll-organization]: https://github.com/jekyll
+How : direct financial support into specific projects.
